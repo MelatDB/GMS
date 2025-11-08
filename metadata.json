@@ -1,0 +1,5 @@
+{
+  "name": "Gun Registry System",
+  "description": "A modern web application to register firearms and their owners. It allows for quick lookups of firearm details by scanning a barcode or entering a serial number, providing a streamlined gun management solution.",
+  "requestFramePermissions": []
+}
